@@ -1,0 +1,27 @@
+﻿html * {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    position: relative;
+}
+ol, ul{ list-style: none;}
+body {
+    font: 100 15px/1 Arial, "微軟正黑體", "細明體";
+    -webkit-text-size-adjust: none;
+}
+img {
+    border: 0;
+}
+a {
+    text-decoration: none;
+}
+table {
+    border-collapse: collapse;
+}
+input, select, option, button, input[type="button"], input[type="submit"], input[type="reset"] {
+    font-family: Arial, "微軟正黑體";
+}
+button, input[type="button"], input[type="submit"], input[type="reset"] {
+    cursor: pointer;
+    -webkit-appearance: none;
+}
